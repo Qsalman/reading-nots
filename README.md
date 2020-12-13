@@ -1,8 +1,8 @@
 ## Welcome presonal Diary 
 
-Day :13/12/2020 Day one
+* Day one 13/12/2020 
 
- Today we learned the language called MarkDown so :
+ * Today we learned the language called MarkDown so :
  1. The important diffrance about markdown is that its coding language thats using symbols to define the code 
  2. there are many symbols used in MarkDown
  3.its an eaiser codeing language than HTML but has less control the HTML 
