@@ -13,8 +13,8 @@
 ```markdown
 *There  are some advantages  in the MarkDown *:
 
-### Lightweight
-### Easy-to-use syntax for styling your writing
+* Lightweight
+* Easy-to-use syntax for styling your writing
 
 
 ```
