@@ -8,9 +8,7 @@
  3.its an eaiser codeing language than HTML but has less control the HTML 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Markdown
 
 ```markdown
 *There  are some advantages  in the MarkDown *:
@@ -21,8 +19,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 
 
 this page will keep track of my prgres for the comming days throu this softwhere.
@@ -32,3 +28,5 @@ this page will keep track of my prgres for the comming days throu this softwhere
 * Every single moment is your life, so enjoy the moment to enjoy your life fully.
 
 
+
+For more details see [MypersonalDiary](https://qsalman.github.io/reading-nots/).
