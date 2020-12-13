@@ -19,23 +19,16 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Easy-to-use syntax for styling your writing
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Qsalman/reading-nots/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+this page will keep track of my prgres for the comming days throu this softwhere.
+## Growth Mindset
+* Be Brave and Take Risks You need to have faith in yourself.
+* Don't be shy to ask questions
+* Every single moment is your life, so enjoy the moment to enjoy your life fully.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
