@@ -13,7 +13,7 @@
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-there  are some advantages  in the MarkDown :
+*There  are some advantages  in the MarkDown *:
 
 ### Lightweight
 ### Easy-to-use syntax for styling your writing
