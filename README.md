@@ -21,7 +21,7 @@
 
 
 
-this page will keep track of my prgres for the comming days throu this softwhere.
+This page will keep track of my prgres for the comming days throu this softwhere.
 ## Growth Mindset
 * Be Brave and Take Risks You need to have faith in yourself.
 * Don't be shy to ask questions
