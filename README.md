@@ -31,6 +31,6 @@ text  | It's very easy to make some words **bold** and other words *italic*
 Content in the first column | Content in the second column
 Lists    |Ordered \Unorded 
 
+https://Qsalman.github.io/reading-nots/main/05/Q01
 
-
-For more details see  [Git Definition](https://github.com/Qsalman/reading-nots/blob/main/05/Q01)
+For more details see  ![Git Definition](https://Qsalman.github.io/reading-nots/main/05/Q01)
