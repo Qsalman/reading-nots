@@ -33,4 +33,4 @@ Lists    |Ordered \Unorded
 
 
 
-For more details see  [Git Definition](https://Qsalman.github.io/reading-nots/main/05/Q01)
+For more details see  [Git Definition](https://github.com/Qsalman/reading-nots/main/05/Q01)
