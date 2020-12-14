@@ -33,4 +33,4 @@ Lists    |Ordered \Unorded
 
 
 
-For more details see  [mypage](https://github.com/Qsalman/reading-nots/main/05/Q01)
+For more details see  [mypage](https://github.com/Qsalman/reading-nots/blob/main/README.md)
