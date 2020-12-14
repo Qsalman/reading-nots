@@ -33,4 +33,4 @@ Lists    |Ordered \Unorded
 
 
 
-For more details see [MypersonalDiary](https://qsalman.github.io/reading-nots/).
+For more details see [GitHubMainpage](https://qsalman.github.io/reading-nots/).
