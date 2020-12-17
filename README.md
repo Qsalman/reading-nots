@@ -22,7 +22,7 @@
 
 ## Growth Mindset
 * **Be Brave and Take Risks You need to have faith in yourself**
-* **Don't be shy to ask questions
+* **Don't be shy to ask questions**
 * **Every single moment is your life, so enjoy the moment to enjoy your life fully.**
 
 Markdown  | code
