@@ -9,10 +9,10 @@
 # Markdown
 
 ```markdown
-*There  are some advantages  in the MarkDown *:
+ *There  are some advantages  in the MarkDown *:
 
-* Lightweight
-* Easy-to-use syntax for styling your writing
+1. * Lightweight
+2. * Easy-to-use syntax for styling your writing
 
 
 ```
@@ -21,9 +21,9 @@
 
 
 ## Growth Mindset
-* Be Brave and Take Risks You need to have faith in yourself.
-* Don't be shy to ask questions
-* Every single moment is your life, so enjoy the moment to enjoy your life fully.
+* **Be Brave and Take Risks You need to have faith in yourself**
+* **Don't be shy to ask questions
+* **Every single moment is your life, so enjoy the moment to enjoy your life fully.**
 
 Markdown  | code
 ------------ | -------------
