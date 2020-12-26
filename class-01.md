@@ -28,9 +28,9 @@ Summary pages:  come at the end of each chapter. They remind you of the key topi
 ##### 1: HTML : stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages one of the  core technologies for building Web pages.
 #### 2: CSS : Cascading Style Sheets   one of the core technologies for building Web pages. 
 #### 3: Practical : We end up with some helpful information that will assist you in building better websites, We look at some new tags that will be introduced in HTML5 to help describe the structure of your pages.
-**we end up looking at topics that will help you once you have built your site, such as putting it on the web, search engine optimisation (SEO) and using analytics software to track who comes to your site and what they are looking at.
+##### we end up looking at topics that will help you once you have built your site, such as putting it on the web, search engine optimisation (SEO) and using analytics software to track who comes to your site and what they are looking at.
 
-#### *How People Access the Web: Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some* *terminology:*
+#### How People Access the Web: Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify someterminology:
 
 #### 1: Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
 #### 2: Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.Web #### servers are special computers that are constantly 
@@ -49,7 +49,7 @@ Summary pages:  come at the end of each chapter. They remind you of the key topi
 
 
 ## Structure
-**We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues ,the list goes on.
+We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues ,the list goes on.
 
 ### In this chapter you will:
 ### See how HTML describes the structure of a web page  and  Learn how tags or elements are added to your document , Write your first web page.
@@ -91,22 +91,22 @@ Save this file as test.html
 page, you can look for the View menu in your browser, and select  the option that says Source or View source.
 
 
-*In end of theis chapter Here is some of the thinge you know about now: 
-* HTML pages are text documents.
-* HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
-* Tags are often referred to as elements.
-* Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
-* Opening tags can carry attributes, which tell us more about the content of that element.
-* Attributes require a name and a value.
-* To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+In end of theis chapter Here is some of the thinge you know about now: 
+HTML pages are text documents.
+HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
+Tags are often referred to as elements.
+Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+Opening tags can carry attributes, which tell us more about the content of that element.
+Attributes require a name and a value.
+To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
 
 
 ### The Evolution of HTML:
-**- HTML 4 Released 1997
-**- XHTML 1.0 Released 2000
-**- HTML5 Released 2000
+- HTML 4 Released 1997
+- XHTML 1.0 Released 2000
+- HTML5 Released 2000
 
-** DOCTYPEs:Because there have beenseveral versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML
+DOCTYPEs:Because there have beenseveral versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML
 the page is using (althoughbrowsers usually display the page even if it is not included). We will therefore be including one in each example for the rest of the book.
 
 **There is a way to wright  Comments in HTML :  <!-- comment goes here -->
@@ -122,18 +122,17 @@ important. The class attribute on any element can share the same value. So, in t
 **Block Elements: 
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
-**Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 
-**Grouping Text &Elements In a Block:
-**<div> * : element allows you to group a set of elements together in one block-level box.
-**<span>* : The <span> element acts like
-*an inline equivalent of the <div> element. It is used to either:
+Grouping Text &Elements In a Block:
+<div> * : element allows you to group a set of elements together in one block-level box.
+<span>* : The <span> element acts like an inline equivalent of the <div> element. It is used to either:
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text
 2. Contain a number of inline elements.
 
-* The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS *
+The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS *
 
-*<iframe> *:  An iframe is like a little window  that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+<iframe>:  An iframe is like a little window  that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
 -src : The src attribute specifies the URL of the page to show in the frame.
 -height:  The height attribute specifies the height of the iframe in pixels.
@@ -150,44 +149,45 @@ a border or not. A value of 0 indicates that no border should be shown. A value 
 HTML5 attributes) does not need a value, but you will often see authors give it a value of seamless. Older browsers do not support the seamless attribute.
 
 # Information About Your Pages:
-* <meta> The <meta> element lives inside the <head> element and contains information about that web page.
-* description This contains a description of the page. This description is commonly used by search engines to understand what the page is about and should be a maximum of 155 characters.
-* keywords This contains a list of commaseparated words that a user might search on to find the page. In practice, this no longer has any noticeable effect on how search engines index your site.
-* robots This indicates whether search engines should add this page to their search results or not. A value of noindex can be used if this page should not be added.
+ <meta> The <meta> element lives inside the <head> element and contains information about that web page.
+description This contains a description of the page. This description is commonly used by search engines to understand what the page is about and should be a maximum of 155 characters.
+ keywords This contains a list of commaseparated words that a user might search on to find the page. In practice, this no longer has any noticeable effect on how search engines index your site.
+ robots This indicates whether search engines should add this page to their search results or not. A value of noindex can be used if this page should not be added.
 A value of nofollow can be used if search engines should add this page in their results but not any pages that it links to.
-* author This defines the author of the web page.
-* pragma This prevents the browser from caching the page. (That is, storing it locally to save time downloading it on subsequent visits.)
-* expires Because browsers often cache the content of a page, the expires option can be used to indicate when the page should expire (and no longer be cached). Note that the date must be specified in the format shown.
+ author This defines the author of the web page.
+pragma This prevents the browser from caching the page. (That is, storing it locally to save time downloading it on subsequent visits.)
+ expires Because browsers often cache the content of a page, the expires option can be used to indicate when the page should expire (and no longer be cached).
+ Note that the date must be specified in the format shown.
 
 ### Escape Characters:There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
 
 **DOCTYPES tell browsers which version of HTML you are using. 
-**You can add comments to your code between the <!-- and --> markers.
-**The id and class attributes allow you to identify particular elements.
-**The <div> and <span> elements allow you to group block-level and inline elements together.
-** <iframes> cut windows into your web pages through which other pages can be displayed.
-** The <meta> tag allows you to supply all kinds of information about your web page.
-** Escape characters are used to include special characters in your pages such as <, >, 
+You can add comments to your code between the <!-- and --> markers.
+The id and class attributes allow you to identify particular elements.
+The <div> and <span> elements allow you to group block-level and inline elements together.
+<iframes> cut windows into your web pages through which other pages can be displayed.
+The <meta> tag allows you to supply all kinds of information about your web page.
+Escape characters are used to include special characters in your pages such as <, >, 
 
 
 
 
 
-**HTML5 Layout:
+HTML5 Layout:
 HTML5 is introducing a new set of elements that help define the structure of a page.
 
-**Traditional HTML Layouts :
+Traditional HTML Layouts :
 For a long time, web page authors used <div> elements to grouptogether related elements on the page (such as the elements that form a header, an article, footer or sidebar). 
-**Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
+Authors used class or id attributes to indicate the role of the <div> element in the structure of the page.
 
 **New Html 5 Layout Elements:
 HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content
 you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
 
 **Headers & Footers <header> <footer> :
-**The <header> and <footer> elements can be used for:
-**The main header or footer that appears at the top or bottom of every page on the site.
-**A header or footer for an individual <article> or <section> within the page
+The <header> and <footer> elements can be used for:
+The main header or footer that appears at the top or bottom of every page on the site.
+A header or footer for an individual <article> or <section> within the page
 
 - Navigation <nav> : The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
 - Articles <article> : The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
@@ -208,28 +208,28 @@ This is not a new element in HTML5, but it was not seen as a correct usage of th
 
 
 
-**Who is the Site For? *
-**Every website should be designed for the target audience—not just for yourself or the**
-**site owner. It is therefore very important to understand who your target audience is.**
+**Who is the Site For?
+**Every website should be designed for the target audience—not just for yourself or the
+**site owner. It is therefore very important to understand who your target audience is.
 
-**Every Websitew must have a Target Audience: individuals*
-**What is the age range of your target audience?**
-**Will your site appeal to more women or men? What is the mix?**
-**Which country do your visitors live in?**
-**Do they live in urban or rural areas?**
-**What is the average income of visitors?**
-**What level of education do they have?**
-**What is their marital or family status?**
-**What is their occupation?**
-**How many hours do they work per week?**
-**How often do they use the web?**
-**What kind of device do they use to access the web?**
+**Every Websitew must have a Target Audience: individuals
+**What is the age range of your target audience?
+**Will your site appeal to more women or men? What is the mix?
+**Which country do your visitors live in?
+**Do they live in urban or rural areas?
+**What is the average income of visitors?
+**What level of education do they have?
+**What is their marital or family status?
+**What is their occupation?
+**How many hours do they work per week?
+**How often do they use the web?
+**What kind of device do they use to access the web?
 
-**Target Audience: Companies*
-**What is the size of the company or relevant department?**
-**What is the position of people in the company who visit your site?**
-**Will visitors be using the site for themselves or for someone else?**
-**How large is the budget they control?**
+**Target Audience: Companies
+**What is the size of the company or relevant department?
+**What is the position of people in the company who visit your site?
+**Will visitors be using the site for themselves or for someone else?
+**How large is the budget they control?
 
 ## Why People Visit YOUR Website :
 ## Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.
@@ -259,16 +259,16 @@ You know who is coming to your site and why they are coming, so now you need to 
 #### When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend.
 #### Here are some ways this can be achieved:
 **Proximity
-*Closure
-*Continuance
-*White Space
-*color
-*Borders
+Closure
+Continuance
+White Space
+color
+Borders
 
 ### We naturally observe similarities in design, and things that are similar are perceived to be more related than things that are dissimilar. 
 ### Repetitionof similar color, size, orientation, texture, font, or shape, suggests that matching elements have similar importance or meaning.
 
-*Designing Navigation :
+Designing Navigation :
 Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized.
  Good navigation tends to follow these principles: 
 1-Concise: the navigation should be quick and easy to read.
@@ -297,9 +297,9 @@ Site navigation not only helps people find where they want to go, but also helps
 #####• Select any elements that have a c1ass attribute with a value of note
 ##### • Find out what was entered into a text input whose id attribute has a value of email
 #### - MODIFY CONTENT : You can use JavaScript to add elements, attributes, and text to the page, or remove them. For example:
-• **Add a paragraph of text after the first <hl> element
-• **Change the value of c 1 ass attributes to trigger new CSS rules for those elements
-• **Change the size or position of an <i mg> element 
+• Add a paragraph of text after the first <hl> element
+• Change the value of c 1 ass attributes to trigger new CSS rules for those elements
+• Change the size or position of an <i mg> element 
 - PROGRAM RULES:
  You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page. For example:
 • A gallery script could check which image a user clicked on and display a larger version of that image.
@@ -341,7 +341,7 @@ C- How do I write a script for a web page?
 
 
 **Once you have learned the basics you will be able to understand how the JavaScript
-**language can be used to tell browsers what you want them to do.*
+language can be used to tell browsers what you want them to do.
 
 ### what is a script and how do I  create one : A script  is a series of instructions that a computer can follow to achieve a goal.
  #### WRITING A SCRIPT To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
@@ -356,10 +356,10 @@ C- How do I write a script for a web page?
 #### You need to learn to "think" like a computer because they solve tasks in different ways than you or I might approach them.
 
 ### A- What is a script and how do I  create one? 
- **A script is a series of instructions that the computer can follow in order to achieve a goal.**
- **Each time the script runs, it might only use a subset of all the instructions.**
- **Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.**
- **To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).**
+ A script is a series of instructions that the computer can follow in order to achieve a goal.**
+ Each time the script runs, it might only use a subset of all the instructions.**
+ Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.**
+ To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).**
 
 ### B- How do computers fit in with the world around them?
 COMPUTERS CREATE MODELS OF THE WORLD USING DATA :
@@ -367,8 +367,8 @@ COMPUTERS CREATE MODELS OF THE WORLD USING DATA :
 - PROPERTIES (CHARACTERISTICS) :Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object.
 
 ### METHODS:
-**WHAT IS A METHOD : Methods typically represent how people (or other things) interact with an object in the real world.**
-** WHAT DOES A METHOD DO? The code for a method can contain lots of instructions that together represent one task.**
+WHAT IS A METHOD : Methods typically represent how people (or other things) interact with an object in the real world.**
+WHAT DOES A METHOD DO? The code for a method can contain lots of instructions that together represent one task.**
 
 ### PUTTING IT ALL TOGETHER:
 Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other.
@@ -384,9 +384,9 @@ THE DOCUMENT OBJECT REPRESENTS AN HTML PAGE:
 - Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
 
 #### Like other objects that represent real-world things, the document object has:
-** PROPERTIES Properties describe characteristics of the current web page (such as the t itle of the page).**
-** METHODS Methods perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).**
-**EVENTS You can respond to events, such as a user clicking or tapping on an element. **
+PROPERTIES Properties describe characteristics of the current web page (such as the t itle of the page).**
+METHODS Methods perform tasks associated with the document currently loaded in the browser (such as getting information from a specified element or adding new content).**
+EVENTS You can respond to events, such as a user clicking or tapping on an element. **
 #### HOW A BROWSER SEES A WEB PAGE::
 In order to understand how you can change the content of an HTML page using JavaScript, you need to know how a browser interprets the HTML code and applies styling to it:
 1- RECEIVE A PAGE AS HTML CODE Each page on a website can be seen as a separate document .
