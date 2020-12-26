@@ -1,4 +1,4 @@
-# **Who want to learn how to design and build websites from scratch 
+#  Who want to learn how to design and build websites from scratch 
 Anyone who has a website and want to make it better(that may be built using a content management system, blogging software or an e-commerce platform) and wants more control over
 the appearance of their pages  The only things you need in order to use this book are a computer
 with a web browser and a text editor(such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
