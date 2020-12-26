@@ -3,19 +3,19 @@ Anyone who has a website and want to make it better(that may be built using a co
 the appearance of their pages  The only things you need in order to use this book are a computer
 with a web browser and a text editor(such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
 
-**To explain  the pages will come next ahead in the book you are reading here is some definitions to help you :
+To explain  the pages will come next ahead in the book you are reading here is some definitions to help you :
 
-**Introduction: pages come at the beginning of each chapter. They introduce the key topics you will learn about.
+Introduction: pages come at the beginning of each chapter. They introduce the key topics you will learn about.
 
-**Reference pages : introduce key pieces of HTML & CSS code. The HTML code is shown in blue and CSS code is shown in pink.
+Reference pages : introduce key pieces of HTML & CSS code. The HTML code is shown in blue and CSS code is shown in pink.
 
-**Background pages appear on white; they explain the context of the topics covered that are discussed in each chapter.
+Background pages appear on white; they explain the context of the topics covered that are discussed in each chapter.
 
-**Diagram and infographics pages:  are shown on a dark background. They provide a simple, visual reference to topics discussed.
+Diagram and infographics pages:  are shown on a dark background. They provide a simple, visual reference to topics discussed.
 
-**Example pages:  put together the topics you have learned and demonstrate how they can be applied in each.
+Example pages:  put together the topics you have learned and demonstrate how they can be applied in each.
 
-**Summary pages:  come at the end of each chapter. They remind you of the key topics that were covered in each chapter.
+Summary pages:  come at the end of each chapter. They remind you of the key topics that were covered in each chapter.
 
 
 #### At work, when people look at the Programmer  screen and see it full of code, it's not unusual to get a comment about it looking very complicated or how clever he  must
@@ -23,7 +23,7 @@ with a web browser and a text editor(such as Notepad, which comes with Windows, 
 #### Understanding HTML and CSS can help anyone who works with the web; designers can create more attractive and usable sites, website editors can create better content
 #### marketers can communicate with their audience more effectively, and managers can commission better sites and get the best out of their teams.
 
- **The Structure of This Book :
+ The Structure of This Book :
 
 ##### 1: HTML : stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages one of the  core technologies for building Web pages.
 #### 2: CSS : Cascading Style Sheets   one of the core technologies for building Web pages. 
