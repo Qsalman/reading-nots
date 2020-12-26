@@ -23,21 +23,21 @@ with a web browser and a text editor(such as Notepad, which comes with Windows, 
 #### Understanding HTML and CSS can help anyone who works with the web; designers can create more attractive and usable sites, website editors can create better content
 #### marketers can communicate with their audience more effectively, and managers can commission better sites and get the best out of their teams.
 
- ### The Structure of This Book :
+ **The Structure of This Book :
 
-#####1: HTML : stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages one of the  core technologies for building Web pages.
+##### 1: HTML : stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages one of the  core technologies for building Web pages.
 #### 2: CSS : Cascading Style Sheets   one of the core technologies for building Web pages. 
 #### 3: Practical : We end up with some helpful information that will assist you in building better websites, We look at some new tags that will be introduced in HTML5 to help describe the structure of your pages.
 **we end up looking at topics that will help you once you have built your site, such as putting it on the web, search engine optimisation (SEO) and using analytics software to track who comes to your site and what they are looking at.
 
 #### *How People Access the Web: Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some* *terminology:*
 
-#### *1: Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
-#### *2: Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.Web #### *servers are special computers that are constantly 
-#### *connected to the Internet, and are optimized to send web pages out to people who request them.
-#### *3: Screen readers :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
-#### *4:Devices: People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to
-#### *remember that various devices have different screen sizes and some have faster connections to the web than others.
+#### 1: Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
+#### 2: Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.Web #### servers are special computers that are constantly 
+#### connected to the Internet, and are optimized to send web pages out to people who request them.
+#### 3: Screen readers :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
+#### 4:Devices: People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to
+#### remember that various devices have different screen sizes and some have faster connections to the web than others.
 
 ##### How Websites Are Created: All websites use HTML and CSS, but content management systems  blogging software, and e-commerce platforms often add a few more technologies into the mix. 
 
@@ -49,7 +49,7 @@ with a web browser and a text editor(such as Notepad, which comes with Windows, 
 
 
 ## Structure
-We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues ,the list goes on.
+**We come across all kinds of documents every day of our lives. Newspapers, insurance forms, shop catalogues ,the list goes on.
 
 ### In this chapter you will:
 ### See how HTML describes the structure of a web page  and  Learn how tags or elements are added to your document , Write your first web page.
@@ -120,9 +120,9 @@ Its value should describe the class it belongs to. In the example on the left, k
 important. The class attribute on any element can share the same value. So, in this example, the value of important could be used on headings and links, too.
 
 **Block Elements: 
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements. Examples of block elements are <h1>, <p>, <ul>, and <li>.
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
 
-**Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements. Examples of inline elements are <a>, <b>, <em>, and <img>.
+**Inline Elements: Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 
 **Grouping Text &Elements In a Block:
 **<div> * : element allows you to group a set of elements together in one block-level box.
