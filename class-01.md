@@ -1,5 +1,6 @@
-**To you  who want to learn how to design and build websites from scratch and Anyone who has a website and want to make it better   (that may be built using a content management* *system, blogging software,* 
-or an e-commerce platform) and wants more control over the appearance of their pages  The only things you need in order to use this book are a computer with a web browser and a text editor(such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
+**To you  who want to learn how to design and build websites from scratch and Anyone who has a website and want to make it better   (that may be built using a content management* *system, blogging software or an e-commerce platform) and wants more control over
+the appearance of their pages  The only things you need in order to use this book are a computer
+with a web browser and a text editor(such as Notepad, which comes with Windows, or TextEdit, which comes with Macs).
 
 **To explain  the pages will come next ahead in the book you are reading here is some definitions to help you :
 
@@ -28,19 +29,19 @@ or an e-commerce platform) and wants more control over the appearance of their p
 #### 3: Practical : We end up with some helpful information that will assist you in building better websites, We look at some new tags that will be introduced in HTML5 to help describe the structure of your pages.
 **we end up looking at topics that will help you once you have built your site, such as putting it on the web, search engine optimisation (SEO) and using analytics software to track who comes to your site and what they are looking at.
 
-*How People Access the Web: Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some* *terminology:*
+#### *How People Access the Web: Before we look at the code used to build websites it is important to consider the different ways in which people access the web and clarify some* *terminology:*
 
-*1: Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
-*2: Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.Web *servers are special computers that are constantly 
-*connected to the Internet, and are optimized to send web pages out to people who request them.
-*3: Screen readers :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
-*4:Devices: People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to
-*remember that various devices have different screen sizes and some have faster connections to the web than others.
+#### *1: Browsers : People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer, Safari, Chrome, and Opera.
+#### *2: Web Servers : When you ask your browser for a web page, the request is sent across the Internet to a special computer known as a web server which hosts the website.Web #### *servers are special computers that are constantly 
+#### *connected to the Internet, and are optimized to send web pages out to people who request them.
+#### *3: Screen readers :Screen readers are programs that read out the contents of a computer screen to a user. They are commonly used by people with visual impairments.
+#### *4:Devices: People are accessing websites on an increasing range of devices including desktop computers, laptops, tablets, and mobile phones. It is important to
+#### *remember that various devices have different screen sizes and some have faster connections to the web than others.
 
 ##### How Websites Are Created: All websites use HTML and CSS, but content management systems  blogging software, and e-commerce platforms often add a few more technologies into the mix. 
 
-How the Web Works: When you visit a website, the web server hosting that site could be anywhere in the
-world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
+#### How the Web Works: When you visit a website, the web server hosting that site could be anywhere in the
+#### world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
 
 
